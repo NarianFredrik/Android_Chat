@@ -10,3 +10,15 @@ I like to play games
 # My skills 
 * HTML5
 * CSS
+
+# Code 
+None
+
+# Experience
+None
+
+# Education
+MSU Admiral Nevelsky's
+
+# Languages
+English: A1
